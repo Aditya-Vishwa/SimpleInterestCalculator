@@ -1,0 +1,46 @@
+body {
+    background-color:black;font-family:arial;color:white}
+h1{
+    color:grey;font-family:verdana;text-align:center;}
+.maindiv {
+    background-color:white;
+    color:black;
+    width:500px;
+    padding:20px;
+    border-radius: 25px;
+    box-align:center;
+    margin: 0 auto;
+}
+.maindiv input {
+ 
+  
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: space-between;
+
+}
+
+.maindiv label{
+    padding-right:35px;
+}
+.maindiv select{
+    margin-left:8px;
+    border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+span.highlight {
+  background-color: yellow;
+}
+.maindiv button{
+    padding:4px;
+    padding-left:4px;
+    font-weight : bold ;
+    
+  border-radius: 4px;
+  
+}
+
